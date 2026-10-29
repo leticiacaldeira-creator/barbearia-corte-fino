@@ -3,7 +3,7 @@
    Escreva aqui os estilos dos blocos abaixo, seguindo o roteiro.
    ========================================================= */
 
-/* ---------- 1. GALERIA BENTO ---------- */
+/* ---------- 1. GALERIA BENTO ------------ */
 /* .bento, .bento-item, .bento-1 ... .bento-5 */
 .bento {
    display: grid;
